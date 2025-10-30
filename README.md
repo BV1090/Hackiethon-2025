@@ -28,24 +28,6 @@ Future for fiveWordStory
 
 Users can choose the number of words and get random words in some range(noun, adjectives ..).
 
-Built With
+Built With react
 
-react
-Edit project
-SUBMITTED TO
 
-image
-Hackiethon 2025
-CREATED BY
-
-Binglin Li
-Binglin Li  
-Describe your contribution
-
- Cancel
-BV1090 Jiang
-BV1090 Jiang 
-+ add team members
-
- Report inappropriate content
- Hide project from my portfolio
